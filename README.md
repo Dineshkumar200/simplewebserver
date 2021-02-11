@@ -58,4 +58,4 @@ httpd.serve_forever()
 
 
 ## RESULT:
-Create a simple webserver to serve html pages and is hosted in the URL http://dineshkumar.student.saveetha.in/ . 
+Thus website is designed for showing the multiplication table and is hosted in the URL http://dineshkumar.student.saveetha.in/ . 
